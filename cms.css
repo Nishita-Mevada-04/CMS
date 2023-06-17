@@ -12,7 +12,7 @@ h2{
 	
 }
 th { 
-  //background: #333; 
+  /*background: #333; */
   color: white; 
   font-weight: bold; 
 }
@@ -22,7 +22,7 @@ td, th {
 		width: 70%; 
 		padding-right: 10px; 
   padding: 25px; 
-  //border:solid white; 
+  /* border:solid white; */
   text-align: left; 
   white-space: nowrap;
 }
